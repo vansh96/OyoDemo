@@ -66,5 +66,6 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:layout_gravity="bottom|right"
-        app:srcCompat="@android:drawable/ic_menu_share"/>
+        app:srcCompat="@android:drawable/ic_menu_share"
+        android:clickable="true"/>
 </android.support.design.widget.CoordinatorLayout>
